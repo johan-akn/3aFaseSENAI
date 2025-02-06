@@ -1,0 +1,10 @@
+
+.body-container{
+    display: flex;
+    justify-content: center;
+    min-height: calc(100vh - 135px);
+    align-items: center;
+    background-color: beige;
+    font-family: Nunito;
+
+}

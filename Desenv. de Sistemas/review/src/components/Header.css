@@ -1,0 +1,13 @@
+
+.header-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    background-color: rgb(90, 54, 28);
+    color: aliceblue;
+    font-family: Nunito;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: auto;
+}
