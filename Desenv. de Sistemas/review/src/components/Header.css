@@ -1,7 +1,8 @@
 
 .header-container{
     display: flex;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-evenly;
     align-items: center;
     height: 75px;
     background-color: rgb(90, 54, 28);
@@ -10,4 +11,10 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     text-align: center;
     margin: auto;
+}
+
+.header-container p{
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
 }

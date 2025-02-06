@@ -5,7 +5,9 @@ function Header() {
   return (
     <div>
         <div className="header-container">
-            <h1>cabeça do site</h1>
+            <p>Link 1</p>
+            <p>Link 2</p>
+            <p>Link 3</p>
         </div>
     </div>
   )
