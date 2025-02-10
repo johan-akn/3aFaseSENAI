@@ -7,5 +7,14 @@
     align-items: center;
     background-color: beige;
     font-family: Nunito;
+    gap: 50px;
 
+}
+
+.mid-body-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
 }

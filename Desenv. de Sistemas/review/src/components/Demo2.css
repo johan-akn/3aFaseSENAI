@@ -1,0 +1,13 @@
+.demo2-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.goat{
+    height: 25em;
+}
+
+.glob{
+    height: 27em;
+}
